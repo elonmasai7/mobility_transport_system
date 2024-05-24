@@ -1,6 +1,6 @@
 Matatu Mobility Project
-
 The Matatu Mobility Project aims to revolutionize public transportation in Kenya, specifically focusing on matatus, the country's primary mode of urban transport. This README provides an overview of the project, installation instructions, usage guidelines, and information for contributors.
+
 Table of Contents
 
     Introduction
